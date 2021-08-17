@@ -5,14 +5,15 @@ flex:1;
 
 .medium_pizza{
 background-color: #d81159;  
-flex:2; 
+flex:1; 
 }
 .large_pizza{
 background-color: #f4e04d;
-flex:3;
+flex:1;
 }
 footer{
     background-color: #0496ff;
+    text-align: center;
 }
 .border{
     border: 1px solid inherit;
